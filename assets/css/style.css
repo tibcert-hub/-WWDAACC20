@@ -1,0 +1,68 @@
+
+
+body{background:black;}
+*{ font-family: 'Noto Sans KR', sans-serif;
+font-weight: normal;
+}
+nav{
+	width:100%;margin:0px auto;
+	height:53px;
+	padding-top:20px;
+border-bottom: 1px solid #252525;
+}
+nav ul{
+	list-style: none;
+	margin:0px;
+	padding:0px;
+}
+nav ul li{
+	float: left;
+}
+nav ul li a{padding:0px; margin:20px;}
+a{text-decoration: none;color:white;font-weight: 100;}
+.top-bar,main{width:980px;margin:0px auto;}
+.top-bar h2{float:left; 
+	margin:0px;
+	font-family: 'Noto Sans KR', sans-serif;
+	padding:0px;}
+.top-bar .nav{
+	float:right;
+
+
+}
+.section-hero{
+	color:white;
+	width:980px;
+	margin:0px auto;
+	text-align: center;
+}
+.section-hero h2{font-weight:200;
+padding: 20px
+}
+.section-hero h1{font-weight:400;
+padding: 20px
+}
+main{width:100%;
+	display: grid;
+}
+
+.container-lazy{
+	position: relative;
+	display: flex;
+	flex-flow:row nowrap;
+	justify-content: center;
+	width:99vw;
+	margin:0px auto;
+	height:54.25vh;
+	max-height: 600px;
+	background-image: url(../images/Annotation%202020-06-03%20111014.jpg);
+	background-repeat: repeat-x;
+	background-repeat: no-repeat;
+	bottom: 0px;
+	animation: steps 20s linear infinite;
+}
+@keyframes steps {
+  to {
+    background-position: 50% 0%;
+  }
+}
