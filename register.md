@@ -8,7 +8,7 @@ layout: default
   method="POST" id="registration-form"
 >
   <label>
-    First Name:
+    Full Name:
     <input type="text" name="Fname">
   </label>
     <label>
