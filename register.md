@@ -3,7 +3,7 @@ layout: default
 
 ---
 <!-- modify this form HTML and place wherever you want your form -->
-<h2>Registration Form</h2>
+<h2 class="text-center">Registration Form</h2>
 <form id="register"
   action="https://formspree.io/mqkyqyry"
   method="POST" id="registration-form"
@@ -13,22 +13,14 @@ layout: default
     <input type="text" name="Fname">
   </label>
     <label>
-    Last name:
-    <input type="text" name="Lname">
+    Email:
+    <input type="text" name="Fname">
   </label>
+  
   <label>
-    test message:
-    <textarea name="message"></textarea>
+    message:
+    <textarea name="message" placeholder="If you like to participate in the workshops, please let us know your affiliation and why you would like to be a part of the internal discussions... " rows="7"></textarea>
   </label>
-  <label>
-    Gender:
-    <select name="Gender" id="cars">
-      <option value="male">Male</option>
-      <option value="female">Female</option>
-  </select>
-  </label>
-
-
 
 </form>
   <button type="submit">Submit Form</button>
