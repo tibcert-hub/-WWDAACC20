@@ -1,9 +1,8 @@
 ---
 layout: default
-
 ---
 <!-- modify this form HTML and place wherever you want your form -->
-<h2 class="text-center">Registration Form</h2>
+<h2 class="text-center">Register for updates</h2>
 <form id="register"
   action="https://formspree.io/mqkyqyry"
   method="POST" id="registration-form"

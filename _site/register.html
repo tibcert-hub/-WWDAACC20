@@ -4,11 +4,12 @@
 	<title>Document</title>
 	<link rel="stylesheet" href="assets/css/style.css">
 	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;500;900&display=swap" rel="stylesheet">
-   <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
    	<meta property="og:title" content="" />
 	<meta property="og:type" content="Campaign" />
 	<meta property="og:image" content="assets/images/APPLE-LOGO.png" />
 	<meta property="og:url" content="https://tibcert-hub.github.io/tibcert-hub/" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
 <body>
 	<nav>
@@ -20,13 +21,22 @@
 				<li><a href="register">Register</a></li>
 			</ul>
 		</div>
+		<div class="nav-mobile">
+			<div class="burger" id="burger">
+				<a href="overview">Overview</a>
+				<a href="register">Register</a>
+			</div>
+			<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    			<i class="fa fa-bars"></i>
+ 			 </a>
+		</div>
 		</div>
 	</nav>
 
 <div class="featured-image"></div>
 <article>
 	<!-- modify this form HTML and place wherever you want your form -->
-<h2 class="text-center">Registration Form</h2>
+<h2 class="text-center">Register for updates</h2>
 <form id="registration-form" action="https://formspree.io/mqkyqyry" method="POST">
   <label>
     First Name:
@@ -49,8 +59,23 @@
 
 
 
+<script>
+function myFunction() {
+  var x = document.getElementById("burger");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+
+
+
+
 <footer>
-	
+	<p> | WWDAACC20 | 2020 | </p>
 </footer>
 </body>
 </html>
