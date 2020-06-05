@@ -1,8 +1,13 @@
 ---
 layout: default
+
 ---
 
 {% include header.html %}
-{{content}}
+<div class="featured-image"></div>
+<article>
+	{{ content }}	
+</article>
+
 
 {% include footer.html %}

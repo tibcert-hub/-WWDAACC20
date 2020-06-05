@@ -1,6 +1,7 @@
 
 
 body{background:black;}
+p,li,span,caption{font-weight: 100;line-height: 30px}
 *{ font-family: 'Noto Sans KR', sans-serif;
 font-weight: normal;
 }
@@ -22,14 +23,15 @@ nav ul li a{padding:0px; margin:20px;transition:.2s;}
 nav ul li a:hover{color:#2997ff}
 a{text-decoration: none;color:white;font-weight: 100;}
 .top-bar,main{width:980px;margin:0px auto;}
+.top-bar h2 a{font-weight: 500}
 .top-bar h2{float:left; 
 	margin:0px;
 	font-family: 'Noto Sans KR', sans-serif;
-	padding:0px;}
+	padding:0px;
+}
+
 .top-bar .nav{
 	float:right;
-
-
 }
 .section-hero{
 	color:white;
@@ -47,7 +49,20 @@ padding: 20px
 main{width:100%;
 	display: grid;
 }
+article{
+	width:900px;
+	color:white;
+	margin:0px auto;
+}
+.featured-image{width:100%;
+height:150px;
+background-image: url(../images/tibet-market.jpg);
 
+
+}
+article img{width:90%;margin:10px 5%;}
+
+/*
 .container-lazy{
 	position: relative;
 	display: flex;
@@ -61,10 +76,24 @@ main{width:100%;
 	background-repeat: repeat-x;
 	background-repeat: no-repeat;
 	bottom: 0px;
-	animation: steps 20s linear infinite;
+	animation: steps 30s linear infinite;
+}*/
+
+.container-lazy{
+	position: absolute;
+	justify-content: center;
+	width:98.5vw;
+	margin:0px auto;
+	height:70.25vh;
+	max-height: 600px;
+	background-image: url(../images/Annotation%202020-06-03%20111014.jpg);
+	background-repeat: repeat-x;
+	background-repeat: no-repeat;
+	animation: steps 30s linear infinite;
 }
 @keyframes steps {
   to {
     background-position: 50% 0%;
   }
 }
+

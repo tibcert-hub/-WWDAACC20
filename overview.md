@@ -1,37 +1,15 @@
-<html>
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-	<link rel="stylesheet" href="assets/css/style.css">
-	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;500;900&display=swap" rel="stylesheet">
-   <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
-   	<meta property="og:title" content="Overview" />
-	<meta property="og:type" content="Campaign" />
-	<meta property="og:image" content="assets/images/APPLE-LOGO.png" />
-	<meta property="og:url" content="https://tibcert-hub.github.io/tibcert-hub/" />
-	</head>
-<body>
-	<nav>
-		<div class="top-bar">
-			<h2><a href="index">WWDAACC20</a></h2>
-		<div class="nav">
-			<ul>
-				<li><a href="overview">Overview</a></li>
-				<li><a href="#">Register</a></li>
-			</ul>
-		</div>
-		</div>
-	</nav>
+---
+layout: default
+title: Overview
+---
 
-<div class="featured-image"></div>
-<article>
-	<h2>What is Lorem Ipsum? heading 2</h2>
+<h2>What is Lorem Ipsum? heading 2</h2>
 <h3>What is Lorem Ipsum? heading 3</h3>
 <h4>What is Lorem Ipsum? heading 4</h4>
 <p>
 	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 </p>
-<p><img src="assets/images/tencent.jpg" alt="tencent" /></p>
+![tencent](assets/images/tencent.jpg)
 <p>
 	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 </p>
@@ -43,15 +21,5 @@
 	<li><a href="#">list one</a></li>
 	<li>fjkdsjfkl</li>
 </ul>
-<p><img src="assets/images/tibet-market.jpg" alt="tibetan market" /></p>
+![tibetan market](assets/images/tibet-market.jpg)
 
-	
-</article>
-
-
-
-<footer>
-	
-</footer>
-</body>
-</html>
