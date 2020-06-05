@@ -57,9 +57,24 @@ article{
 .featured-image{width:100%;
 height:150px;
 background-image: url(../images/tibet-market.jpg);
-
-
+background-attachment: fixed;
+opacity: 0.4;
+animation: scale 30s linear infinite;
+background-size: 100%;
+background-position: center
 }
+@keyframes scale {
+  0%{
+    background-size:100%;
+  }
+  50% {
+    background-size:120%;
+  }
+  100% {
+    background-size:100%;
+  }
+}
+
 article img{width:90%;margin:10px 5%;}
 
 /*
