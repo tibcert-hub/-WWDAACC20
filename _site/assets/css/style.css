@@ -167,7 +167,7 @@ iframe{width:100%;}
 
   }
     /* For mobile phones: */
-  @media  screen and (max-width:400px) {
+  @media  screen and (max-width:450px) {
   body{
   	width:100vw;
   }
