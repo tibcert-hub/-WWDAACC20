@@ -26,9 +26,9 @@ title: Overview
 </p>
 <h2>WHEN:</h2>
 <p>
-	The event will run from 8 a.m. – 3 p.m. PDT / 11 a.m. – 6 p.m. EDT / UK? / Hong Kong?
-	Please register to receive updates on the event, including information on the exact schedule, the panelists for public events, and how to make a request for participation in the private, advanced workshops.
+	The event will run from:
 </p>
+<p> 8 a.m. – 3 p.m. PDT / 11 a.m. – 6 p.m. EDT / 4 p.m. - 11p.m. UK / 11 p.m - 6 a.m Hong Kong / 8:30 p.m - 3:30 am IST</p>
 <h2>WHY:</h2>
 <p>
 	While Apple executives routinely make statements about the company’s commitment to freedom of expression and privacy as fundamental human rights, the reality for iOS users in Tibet, China, East Turkestan, Hong Kong, and Taiwan tells a very different story. In fact, Apple routinely removes virtual private networks (VPNs) and news apps (like the New York Times) from China’s version of the App Store. As a result, iOS users living behind the Great Firewall are denied the ability to easily avoid state surveillance or access information. This dangerous double standard for Apple’s China App Store is not only enabling a brutal crackdown, it also serves to help the government of China’s efforts to erode global norms on freedom of expression and privacy.
