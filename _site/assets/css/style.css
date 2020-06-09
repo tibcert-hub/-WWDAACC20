@@ -1,7 +1,7 @@
 
 
 body{background:black;}
-p,li,span,caption,label,input,button{font-weight: 100;line-height: 30px;
+p,li,span,caption,label,input,button,textarea{font-weight: 100;line-height: 30px;
 color:#cbcbcb;
 }
 *{ font-family: 'Noto Sans KR', sans-serif;
@@ -47,10 +47,11 @@ a{text-decoration: none;color:white;font-weight: 100;}
 .section-hero h2{font-weight:200;
 	width:50%;
 	margin:0px auto;
-padding: 20px
+padding:10px 20px
 }
 .section-hero h1{font-weight:400;
-padding: 20px
+padding:5px  20px;
+margin:0px;
 }
 main,footer{width:100%;
 	display: grid;
@@ -130,7 +131,7 @@ article img{width:90%;margin:10px 5%;}
 
 label{
 display:grid;
-grid-template-columns: 20% 70% auto;
+grid-template-columns: 40% 60% auto;
 padding:10px;
 }
 input,textarea,select,select{
@@ -152,6 +153,11 @@ option{color:red;padding:10px;line-height: 30px}
 	padding:7px 20px;
 	
 }
+
+/*--------------------- Text decoration------------------- */
+.jumbotron-md{border-left: 2px solid white;
+    padding: 20px;}
+
 
 
 /* ---------------------- Responsive for mobile and tablet devices---------------------*/
@@ -175,7 +181,8 @@ option{color:red;padding:10px;line-height: 30px}
 	    width:100vw;
 	    padding: 0;
   }
-  .section-hero h2{font-weight:200;
+  .section-hero h2{
+  	font-weight:200;
 	width:auto;
 }
 	.nav{
@@ -212,4 +219,9 @@ option{color:red;padding:10px;line-height: 30px}
 	  width:100vw;
 	  z-index: 1;
 	}
+label{
+display:grid;
+grid-template-columns: auto;
+padding:10px;
+}
 }
