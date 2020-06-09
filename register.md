@@ -7,27 +7,7 @@ layout: default
   Please register to receive updates on the event, including information on the exact schedule, the panelists for public events, and how to make a request for participation in the private, advanced workshops.
 
 </p>
-<form id="register"
-  action="https://formspree.io/mqkyqyry"
-  method="POST" id="registration-form"
->
-  <label>
-    Full Name:
-    <input type="text" name="Fname">
-  </label>
-    <label>
-    Email:
-    <input type="text" name="Fname">
-  </label>
-  
-  <label>
-    Click here if you are interested in participating the in the advanced workshops:
-    <textarea name="message" placeholder="Click here if you are interested in participating the in the advanced workshops... " rows="7"></textarea>
-  </label>
-
-</form>
-  <button type="submit">Submit</button>
-  
+<iframe scrolling="no" frameBorder="0" src="https://docs.google.com/forms/d/e/1FAIpQLSftHVlhLMePqSrlN8CL0jO8OBa8Z94jJN-vLut2kLVkLvNWMQ/viewform?embedded=true" width="640" height="735" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
   <p>
     
   </p>
