@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: register
 
 ---
 
@@ -11,12 +11,6 @@ layout: default
 					Ready. Set. Protect.
 				</h1>
 				<h3 class="hashtag"><a href="https://stopapplecensorship.online/" target="_blank"><b><span>#</span>StopAppleCensorship</b></a></h3>
-					<h2 class="center page-title" style="">
-					WELCOME TO THE FIRST WORLDWIDE DEVELOPERS AGAINST APPLE CENSORSHIP CONFERENCE!
-				</h2>
-				<h2>
-					 BROUGHT TO YOU BY TIBET ACTION INSTITUTE & GREATFIRE.
-				</h2>
 			</div>
 
 	</main>

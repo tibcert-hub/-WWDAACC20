@@ -6,7 +6,19 @@ color:#cbcbcb;
 }
 *{ font-family: 'Noto Sans KR', sans-serif;
 font-weight: normal;
+transition: .1s;
 }
+article h1,
+article h2,
+article h3{
+	font-family: 'Patua One', cursive;
+	letter-spacing: 20px;
+	color:white;
+	padding-top:20px;
+	color:#2997ff;
+
+}
+
 nav{
 	width:100%;margin:0px auto;
 	height:53px;
@@ -158,8 +170,25 @@ iframe{width:100%;}
 /*--------------------- Text decoration------------------- */
 .jumbotron-md{border-left: 2px solid white;
     padding: 20px;}
+.center{text-align: center;}
+ article h1,
+article h2,
+article h3{
+	font-family: 'Patua One', cursive;
+	letter-spacing: 20px;
+	padding-top:20px;
+	color:#bd241e;
 
-
+}
+.hashtag a{
+	color:#bd241e;
+ }
+ .hashtag a span{color:#b5af01;
+font-weight: bold
+ }
+.hashtag aspan{}
+.hashtag a:hover{color:#8e1b17}
+.hashtag a:hover span{color:#7f7b0b}
 
 /* ---------------------- Responsive for mobile and tablet devices---------------------*/
 @media only screen and (max-width:800px) {
