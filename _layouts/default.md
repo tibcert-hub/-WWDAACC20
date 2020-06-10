@@ -12,10 +12,8 @@ layout: default
 				</h1>
 				<h3 class="hashtag"><a href="https://stopapplecensorship.online/" target="_blank">#StopAppleCensorship</a></h3>
 					<h2 class="center page-title" style="">
-					WELCOME TO THE FIRST WORLDWIDE DEVELOPERS AGAINST APPLE CENSORSHIP CONFERENCE!
-				</h2>
-				<h2>
-					 BROUGHT TO YOU BY TIBET ACTION INSTITUTE & GREATFIRE.
+					Welcome to the first Worldwide Developers Against Apple Cencorship Conference!
+					Brought to you by Tibet Action Institute & Greatfire.
 				</h2>
 			</div>
 
