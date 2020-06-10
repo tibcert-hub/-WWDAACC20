@@ -7,6 +7,13 @@ title: Overview
 	We are excited to bring together great technology minds, human rights advocates from affected communities, and corporate accountability experts to explore issues of censorship and surveillance behind China’s Great Firewall...and...in particular, how Apple’s actions are enabling the Chinese government’s ongoing crackdown on freedom. You don’t need to be a developer to participate! 
 
 </p>
+<h2 class="center">WHO:</h2>
+<p class="center">
+	We will be joined by leading activists and technology experts from organizations around the world, including: GreatFire, The Citizen Lab, Human Rights Watch, Students for a Free Tibet, World Uyghur Congress, International Tibet Network, SumOfUs, our own staff, and more! 
+
+And you don’t have to be a developer to participate. It’s free and anyone can <a href="register">register!</a>
+
+</p>
 
 <h2 class="center">WHAT:</h2>
 <p class="center">

@@ -133,12 +133,18 @@ article img{width:90%;margin:10px 5%;}
 	background-image: url(../images/Annotation%202020-06-03%20111014.jpg);
 	background-repeat: repeat-x;
 	background-repeat: no-repeat;
-	animation: steps 30s linear infinite;
+	animation: steps 20s ease-out infinite;
 }
 @keyframes steps {
-  to {
-    background-position: 50% 0%;
+0%{
+	background-position: 0% 0%;
+	}
+  95% {
+    background-position: 100% 0%;
   }
+  100%{
+	background-position: 0% 0%;
+	}
 }
 
 label{
@@ -183,12 +189,9 @@ article h3{
 .hashtag a{
 	color:#bd241e;
  }
- .hashtag a span{color:#b5af01;
-font-weight: bold
- }
-.hashtag aspan{}
+ 
 .hashtag a:hover{color:#8e1b17}
-.hashtag a:hover span{color:#7f7b0b}
+
 
 /* ---------------------- Responsive for mobile and tablet devices---------------------*/
 @media only screen and (max-width:800px) {

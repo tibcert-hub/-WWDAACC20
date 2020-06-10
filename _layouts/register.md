@@ -10,7 +10,7 @@ layout: register
 				<h1>
 					Ready. Set. Protect.
 				</h1>
-				<h3 class="hashtag"><a href="https://stopapplecensorship.online/" target="_blank"><b><span>#</span>StopAppleCensorship</b></a></h3>
+				<h3 class="hashtag"><a href="https://stopapplecensorship.online/" target="_blank">#StopAppleCensorship</a></h3>
 			</div>
 
 	</main>
