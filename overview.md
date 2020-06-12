@@ -8,10 +8,9 @@ title: Overview
 
 </p>
 <h2>WHO:</h2>
-<p><b>GreatFire, the Citizen Lab, Human Rights Watch, Students for a Free Tibet, World Uyghur Congress, International Tibet Network, SumOfUs, our own staff, and more!</b></p>
 <p>
-	We will be joined by leading activists and technology experts from organizations around the world, including: GreatFire, the Citizen Lab, Human Rights Watch, Students for a Free Tibet, World Uyghur Congress, International Tibet Network, SumOfUs, our own staff, and more! 
-
+	We will be joined by leading activists and technology experts from organizations around the world, including: 
+	<b>GreatFire, the Citizen Lab, Human Rights Watch, Students for a Free Tibet, World Uyghur Congress, International Tibet Network, SumOfUs, our own staff, and more! </b>
 And you don’t have to be a developer to participate. It’s free and anyone can <a href="register"><b>register!</b></a>
 
 </p>
