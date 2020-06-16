@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Pre-Event
 ---
 <!-- modify this form HTML and place wherever you want your form -->
 <h2 class="text-center" style="letter-spacing: normal;">Pre-Event</h2>
@@ -15,6 +16,11 @@ layout: default
 <p>
 	For more information on Apple censorship please visit <a href="https://stopapplecensorship.online/ ">https://stopapplecensorship.online </a>
 </p>
+<img src="assets/images/apple-pre-event.jpg" alt="apple-pre-event.jpg">
+<p>
+	
+</p>
+<br><br>
 
  
 

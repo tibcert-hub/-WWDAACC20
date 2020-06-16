@@ -179,6 +179,8 @@ td{color:#cbcbcb;padding:5px 10px;font-weight: 100;}
 .jumbotron-md{border-left: 2px solid white;
     padding: 20px;}
 .center{text-align: center;}
+
+
  article h1,
 article h2,
 article h3{
@@ -187,8 +189,14 @@ article h3{
 	font-weight: 500;
 	padding-top:20px;
 }
-article a{color:white;font-weight: 200}
-article a:hover{color:#cbcbcb;}
+article h1,
+article h2,
+article h3
+article p{
+	padding:0px 10px;
+}
+article a{color:#3e6df3;font-weight: 200}
+article a:hover{color:#2d5ce0;}
 .hashtag a{
 	color:#d9201a;
  }
