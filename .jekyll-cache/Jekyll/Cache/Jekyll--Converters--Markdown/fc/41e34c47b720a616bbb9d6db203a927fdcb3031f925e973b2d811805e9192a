@@ -1,12 +1,4 @@
----
-layout: default
-title: Overview
----
-<h2 class="center page-title" style="">
-					Welcome to the first Worldwide Developers Against Apple Censorship Conference!
-					Brought to you by Tibet Action Institute & GreatFire.
-</h2>
-<p>
+I"�<p>
 	We are excited to bring together great technology minds, human rights advocates from affected communities, and corporate accountability experts to explore issues of censorship and surveillance behind China’s Great Firewall...and...in particular, how Apple’s actions are enabling the Chinese government’s ongoing crackdown on freedom. You don’t need to be a developer to participate! 
 
 </p>
@@ -20,10 +12,10 @@ title: Overview
 
 <h2>WHAT:</h2>
 <p>
-	Throughout the day, we will be hosting the following public panels with leading experts who will cover topics related to censorship and Apple (see schedule below):
+	Throughout the day, we will be hosting the following public panels with leading experts who will cover topics related to censorship and Apple:
 </p>
 <ul>
-	<li><b>CENSORSHIP IN CHINA & CHINA-CONTROLLED REGIONS:</b> A Historical and Modern Look</li>
+	<li><b>CENSORSHIP IN CHINA &amp; CHINESE-CONTROLLED REGIONS:</b> A Historical and Modern Look</li>
 	<ul>
 		<li>Sophie Richardson, China Director, Human Rights Watch</li>
 		<li>Masashi Crete-Nishihata, Associate Director, The Citizen Lab</li>
@@ -32,12 +24,12 @@ title: Overview
 		<li>Lhadon Tethong, Director, Tibet Action Institute (Moderator)</li>
 		<li>To be confirmed</li>
 	</ul>
-	<li><b>FREEDOM OF EXPRESSION & APPLE: </b>  The Double Standard for China, Tibet, East Turkestan, Taiwan and Hong Kong
+	<li><b>FREEDOM OF EXPRESSION &amp; APPLE: </b>  The Double Standard for China, Tibet, East Turkestan, and Hong Kong
 		<ul>
 			<li>Glacier Kwong, Founder, Keyboard Frontline</li>
 			<li>Sondhya Gupta, Campaign Director, SumOfUs</li>
 			<li>Yaqiu Wang, China Researcher, Human Rights Watch</li>
-			<li>Zumretay Arkin, Program & Advocacy Manager, World Uyghur Congress</li>
+			<li>Zumretay Arkin, Program &amp; Advocacy Manager, World Uyghur Congress</li>
 			<li>Pema Doma, Campaigns Director, Students for a Free Tibet</li>
 			<li>Mandie McKeown, Campaigns Coordinator, International Tibet Network (Moderator)</li>
 			<li>To be confirmed</li>
@@ -49,12 +41,11 @@ title: Overview
 			<li>Charlie Smith, Co-Founder, GreatFire</li>
 			<li>Tenzin Samten, Co-Founder, Dachompa Tech</li>
 			<li>Lobsang Gyatso, Digital Security Program Director, Tibet Action Institute (Moderator)</li>
-			<li>To be confirmed</li>
 		</ul> 
 	</li>
 </ul>
 <p>
-	 In addition, there will be two private discussions where we get together and hack on how Apple implements data localization and App censorship. Join us as we figure out ways to challenge Apple censorship and freedom of expression violations through research and advocacy. Please register and let us know if you would like to participate and we will get back to you.
+	 In addition, there will be two private, advanced workshops for going more deeply into the specific mechanisms of censorship surrounding the Chinese government and Apple with regard to China’s App Store.
 </p>
 <h2>WHEN:</h2>
 <p><b>June 22, 2020</b></p>
@@ -66,51 +57,6 @@ title: Overview
 <p> 2 p.m. - 9 p.m. BST </p>
 <p> 6:30 p.m - 1:30 am IST</p>
 <p> 9 p.m - 4 a.m HKT</p>
-
-<h3>SCHEDULE</h3>
-<table>
-	<tr>
-		<td>Intro + Censorship in China – 1.5 hrs 	</td>
-		<td>9:00am EDT / 9:00pm HKT</td>
-	</tr>
-	<tr>
-		<td>Break – 15 mins		</td>
-		<td>10:30am EDT / 10:30pm HKT</td>
-	</tr>
-	<tr>
-		<td>Hackathon – 1 hr  (request participation with registration)	</td>
-		<td>10:45am EDT / 10:45pm HKT</td>
-	</tr>
-	<tr>
-		<td>FOE & Apple: the Double Standard – 1.5 hrs</td>
-		<td>11:45am EDT / 11:45pm HK</td>
-	</tr>
-	<tr>
-		<td>Hackathon – 1 hr (request participation with registration)</td>
-		<td>1:15pm EDT / 1:15am HKT</td>
-	</tr>
-	<tr>
-		<td>Break – 15 mins	</td>
-		<td>2:15pm EDT / 2:15am HKT</td>
-	</tr>
-	<tr>
-		<td>Publishing iOS Apps When Censored – 1.5 hrs</td>
-		<td>2:30pm EDT / 2:30am HKT</td>
-	</tr>
-	<tr>
-		<td>Closing/Next Steps – 15 mins</td>
-		<td>4:00pm EDT / 4:00am HKT</td>
-	</tr>
-</table>
-<h2>Where:</h2>
-<p>
-	The panels will be livestreamed on Tibet Action Institute’s Facebook, Youtube and Instagram pages:
-	<li><a href="https://www.facebook.com/tibetaction">https://www.facebook.com/tibetaction</a></li>
-	<li><a href="https://www.youtube.com/user/tibetactioninstitute">https://www.youtube.com/user/tibetactioninstitute</a></li>
-	<li><a href="https://www.instagram.com/tibetactioninstitute/">https://www.instagram.com/tibetactioninstitute/</a></li>
-
-</p>
-
 <h2>WHY:</h2>
 <p>
 	While Apple executives routinely make statements about the company’s commitment to freedom of expression and privacy as fundamental human rights, the reality for iOS users in Tibet, China, East Turkestan, and Hong Kong tells a very different story. In fact, Apple routinely removes virtual private networks (VPNs) and news apps (like the New York Times) from China’s version of the App Store. As a result, iOS users living behind the Great Firewall are denied the ability to easily avoid state surveillance or access information. This dangerous double standard for Apple’s China App Store is not only enabling a brutal crackdown, it also serves to help the government of China’s efforts to erode global norms on freedom of expression and privacy.
@@ -118,7 +64,6 @@ title: Overview
 <p>
 	
 </p>
-<br><br>
+<p><br /><br /></p>
 
-
-
+:ET

@@ -1,72 +1,4 @@
-<html>
-<head>
-	<meta charset="UTF-8">
-	<title>WWDAACC20</title>
-	<link rel="icon" href="assets/icons/APPLE-LOGO.png">
-	<link rel="stylesheet" href="assets/css/style.css">
-	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;500;900&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Patua+One&family=Russo+One&display=swap" rel="stylesheet">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   	<meta property="og:title" content="WWDAACC20" />
-   	<meta property="og:description" content="WELCOME TO THE FIRST WORLDWIDE DEVELOPERS AGAINST APPLE CENSORSHIP CONFERENCE! BROUGHT TO YOU BY TIBET ACTION INSTITUTE & GREATFIRE." />
-	<meta property="og:type" content="Campaign" />
-	<meta property="og:image" content="assets/icons/thumbnail.png" />
-	<meta property="og:url" content="https://tibcert-hub.github.io/tibcert-hub/" />
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157121718-4"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-157121718-4');
-	</script>
-
-	</head>
-<body>
-	<nav>
-		<div class="top-bar">
-			<h2><a href="index">WWDAACC20</a></h2>
-		<div class="nav">
-			<ul>
-				<li><a href="overview">Overview</a></li>
-				<li><a href="pre-event">Pre-Event</a></li>
-				<li><a href="register">Register</a></li>
-			</ul>
-		</div>
-		
-	</nav>
-	<div class="nav-mobile">
-			<div class="burger" id="burger">
-				<ul>
-				<li><a href="overview">Overview</a></li>
-				<li><a href="pre-event">Pre-Event</a></li>
-				<li><a href="register">Register</a></li>
-				</ul>
-			</div>
-			<a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    			<i class="fa fa-bars"></i>
- 			 </a>
-		</div>
-		</div>
-
-<main>
-	<div class="section-hero">
-		<img src="assets/images/APPLE-LOGO.png" width="100px" alt="" >
-		<h1>
-			Ready. Set. Protect.
-		</h1>
-		<h3 class="hashtag"><a href="https://stopapplecensorship.online/" target="_blank">#StopAppleCensorship</a></h3>	
-	</div>
-</main>
-
-<article>
-	<h2 class="center page-title" style="">
-					Welcome to the first Worldwide Developers Against Apple Censorship Conference!
-					Brought to you by Tibet Action Institute &amp; GreatFire.
-</h2>
-<p>
+I"�<p>
 	We are excited to bring together great technology minds, human rights advocates from affected communities, and corporate accountability experts to explore issues of censorship and surveillance behind China’s Great Firewall...and...in particular, how Apple’s actions are enabling the Chinese government’s ongoing crackdown on freedom. You don’t need to be a developer to participate! 
 
 </p>
@@ -83,7 +15,7 @@
 	Throughout the day, we will be hosting the following public panels with leading experts who will cover topics related to censorship and Apple (see schedule below):
 </p>
 <ul>
-	<li><b>CENSORSHIP IN CHINA &amp; CHINA-CONTROLLED REGIONS:</b> A Historical and Modern Look</li>
+	<li><b>CENSORSHIP IN CHINA &amp; CHINESE-CONTROLLED REGIONS:</b> A Historical and Modern Look</li>
 	<ul>
 		<li>Sophie Richardson, China Director, Human Rights Watch</li>
 		<li>Masashi Crete-Nishihata, Associate Director, The Citizen Lab</li>
@@ -92,7 +24,7 @@
 		<li>Lhadon Tethong, Director, Tibet Action Institute (Moderator)</li>
 		<li>To be confirmed</li>
 	</ul>
-	<li><b>FREEDOM OF EXPRESSION &amp; APPLE: </b>  The Double Standard for China, Tibet, East Turkestan, Taiwan and Hong Kong
+	<li><b>FREEDOM OF EXPRESSION &amp; APPLE: </b>  The Double Standard for China, Tibet, East Turkestan, and Hong Kong
 		<ul>
 			<li>Glacier Kwong, Founder, Keyboard Frontline</li>
 			<li>Sondhya Gupta, Campaign Director, SumOfUs</li>
@@ -109,12 +41,11 @@
 			<li>Charlie Smith, Co-Founder, GreatFire</li>
 			<li>Tenzin Samten, Co-Founder, Dachompa Tech</li>
 			<li>Lobsang Gyatso, Digital Security Program Director, Tibet Action Institute (Moderator)</li>
-			<li>To be confirmed</li>
 		</ul> 
 	</li>
 </ul>
 <p>
-	 In addition, there will be two private discussions where we get together and hack on how Apple implements data localization and App censorship. Join us as we figure out ways to challenge Apple censorship and freedom of expression violations through research and advocacy. Please register and let us know if you would like to participate and we will get back to you.
+	 In addition, there will be two private, advanced workshops for going more deeply into the specific mechanisms of censorship surrounding the Chinese government and Apple with regard to China’s App Store.
 </p>
 <h2>WHEN:</h2>
 <p><b>June 22, 2020</b></p>
@@ -180,28 +111,4 @@
 </p>
 <p><br /><br /></p>
 
-	
-</article>
-
-
-
-<script>
-function myFunction() {
-  var x = document.getElementById("burger");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
-
-
-
-
-
-<footer>
-	<p> WWDAACC20 is brought to you by Tibet Action Institute and Great Fire  </p>
-</footer>
-</body>
-</html>
+:ET

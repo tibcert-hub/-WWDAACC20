@@ -163,6 +163,17 @@ option{color:red;padding:10px;line-height: 30px}
 	
 }
 iframe{width:100%;}
+table{
+
+border:0px solid #2d2929;
+width:100%;
+padding:10px;
+border:0px;
+}
+
+tr{background:#1d1d1d;border:0px;}
+tr:nth-child(even){background:#2d2a2a}
+td{color:#cbcbcb;padding:5px 10px;font-weight: 100;}
 
 /*--------------------- Text decoration------------------- */
 .jumbotron-md{border-left: 2px solid white;
@@ -175,8 +186,9 @@ article h3{
 	font-family: 'Noto Sans KR', sans-serif;
 	font-weight: 500;
 	padding-top:20px;
-	
 }
+article a{color:white;font-weight: 200}
+article a:hover{color:#cbcbcb;}
 .hashtag a{
 	color:#d9201a;
  }
