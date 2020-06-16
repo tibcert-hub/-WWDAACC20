@@ -198,6 +198,7 @@ article h3{
   @media  screen and (max-width:450px) {
   body{
   	width:100vw;
+  	margin:0px;
   }
   main,
   .top-bar,
@@ -210,6 +211,7 @@ article h3{
 	    width:100vw;
 	    padding: 0;
   }
+  .top-bar h2{padding:8px;}
   .section-hero h2{
   	font-weight:200;
 	width:auto;
@@ -248,9 +250,24 @@ article h3{
 	  width:100vw;
 	  z-index: 1;
 	}
-label{
-display:grid;
-grid-template-columns: auto;
-padding:10px;
-}
+	label{
+		display:grid;
+		grid-template-columns: auto;
+		padding:10px;
+	}
+	#burger ul{
+		background:#171616;
+		margin:0px;
+		padding:0px;
+		width:100vw;
+		padding:5px 0px;
+		list-style-type: none;
+	}
+	#burger ul li{
+		padding:0px 0px;
+		text-align: center;	
+	}
+	#burger a{
+		background:none;
+	}
 }
