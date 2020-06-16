@@ -220,6 +220,9 @@ article a:hover{color:#2d5ce0;}
   	width:100vw;
   	margin:0px;
   }
+  p{
+  	padding:10px;
+  }
   main,
   .top-bar,
   nav,
