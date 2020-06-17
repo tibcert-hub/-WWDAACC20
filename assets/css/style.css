@@ -287,8 +287,9 @@ article a:hover{color:#2d5ce0;}
 		list-style-type: none;
 	}
 	#burger ul li{
-		padding:0px 0px;
-		text-align: center;	
+		padding:15px 0px;
+		text-align: center;
+
 	}
 	#burger a{
 		background:none;
