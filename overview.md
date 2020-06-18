@@ -4,7 +4,6 @@ title: Overview
 ---
 <h2 class="center page-title" style="">
 					Welcome to the first Worldwide Developers Against Apple Censorship Conference!
-					Brought to you by Tibet Action Institute.
 </h2>
 <p>
 	Coinciding with Apple’s famed "Worldwide Developers Conference", we are excited to bring together great technology minds, human rights advocates from affected communities, and corporate accountability experts to explore issues of censorship and surveillance behind China’s Great Firewall. And, in particular, how Apple’s actions are enabling the Chinese government’s censorship and surveillance regime.
@@ -105,7 +104,7 @@ title: Overview
 </table>
 <h2>WHERE:</h2>
 <p>
-	The panels will be livestreamed on Tibet Action Institute’s Facebook and Youtube pages:
+	The panels will be livestreamed on Tibet Action Institute’s Facebook and YouTube pages:
 <ul class="fa-ul">
   <li class="fa-li"><a class="fa fa-facebook-square fa-2x" aria-hidden="true" href="https://www.facebook.com/tibetaction" target="_blank"><span>/tibetaction</span></a></li>
   <li class="fa-li"><a class="fa fa-youtube fa-2x" aria-hidden="true" href="https://www.youtube.com/user/tibetactioninstitute" target="_blank"><span>/tibetactioninstitute</span></a></li>
