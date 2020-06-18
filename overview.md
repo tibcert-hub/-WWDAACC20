@@ -110,9 +110,9 @@ title: Overview
 	The panels will be livestreamed on Tibet Action Institute’s Facebook, Youtube and Instagram pages:
 
 <ul class="fa-ul">
-  <li class="fa-li"><a class="fa fa-facebook-square fa-2x" aria-hidden="true" href="https://www.facebook.com/tibetaction"><span>/tibetaction</span></a></li>
-  <li class="fa-li"><a class="fa fa-youtube fa-2x" aria-hidden="true" href="https://www.youtube.com/user/tibetactioninstitute"><span>/tibetactioninstitute</span></a></li>
-  <li class="fa-li"><a  class="fa fa-instagram  fa-2x" aria-hidden="true" href="https://www.instagram.com/tibetactioninstitute/"><span>/tibetactioninstitute</span></a></li>
+  <li class="fa-li"><a class="fa fa-facebook-square fa-2x" aria-hidden="true" href="https://www.facebook.com/tibetaction" target="_blank"><span>/tibetaction</span></a></li>
+  <li class="fa-li"><a class="fa fa-youtube fa-2x" aria-hidden="true" href="https://www.youtube.com/user/tibetactioninstitute" target="_blank"><span>/tibetactioninstitute</span></a></li>
+  <li class="fa-li"><a  class="fa fa-instagram  fa-2x" aria-hidden="true" href="https://www.instagram.com/tibetactioninstitute/" target="_blank"><span>/tibetactioninstitute</span></a></li>
 </ul>
 </p>
 
