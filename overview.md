@@ -108,11 +108,12 @@ title: Overview
 <h2>WHERE:</h2>
 <p>
 	The panels will be livestreamed on Tibet Action Institute’s Facebook, Youtube and Instagram pages:
-	<li><a href="https://www.facebook.com/tibetaction">https://www.facebook.com/tibetaction</a></li>
-	<li><a href="https://www.youtube.com/user/tibetactioninstitute">https://www.youtube.com/user/tibetactioninstitute</a></li>
-	<li><a href="https://www.instagram.com/tibetactioninstitute/">https://www.instagram.com/tibetactioninstitute/</a></li>
 
-
+<ul class="fa-ul">
+  <li class="fa-li"><a class="fa fa-facebook-square fa-2x" aria-hidden="true" href="https://www.facebook.com/tibetaction"><span>/tibetaction</span></a></li>
+  <li class="fa-li"><a class="fa fa-youtube fa-2x" aria-hidden="true" href="https://www.youtube.com/user/tibetactioninstitute"><span>/tibetactioninstitute</span></a></li>
+  <li class="fa-li"><a  class="fa fa-instagram  fa-2x" aria-hidden="true" href="https://www.instagram.com/tibetactioninstitute/"><span>/tibetactioninstitute</span></a></li>
+</ul>
 </p>
 
 <h2>WHY:</h2>

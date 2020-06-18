@@ -209,6 +209,19 @@ article a:hover{color:#2d5ce0;}
 	 font-style: 10px}
 .btn-blue:hover{background:#0e225a;}
 
+.fa-ul .fa-li{line-height: 50px}
+.fa-ul .fa-li a{color:white;
+
+}
+.fa-ul .fa-li a span{
+	vertical-align: top;
+	padding:5px;
+	color:white;
+	font-size: 18px;
+}
+.fa-li:nth-child(1):hover a{color:#297cf7;}
+.fa-li:nth-child(2):hover a{color:#f72929}
+.fa-li:nth-child(3):hover a{color:#8229f7;}
 
 /* ---------------------- Responsive for mobile and tablet devices---------------------*/
 @media only screen and (max-width:800px) {

@@ -1,69 +1,4 @@
-<html>
-<head>
-	<meta charset="UTF-8">
-	<title>WWDAACC20</title>
-	<link rel="icon" href="assets/icons/APPLE-LOGO.png">
-	<link rel="stylesheet" href="assets/css/style.css">
-	<!--<link rel="stylesheet" href="assets/css/font-awesome-4.7.0/font-awesome.min.css"> -->
-	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;500;900&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Patua+One&family=Russo+One&display=swap" rel="stylesheet">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   	<meta property="og:title" content="WWDAACC20" />
-   	<meta property="og:description" content="WELCOME TO THE FIRST WORLDWIDE DEVELOPERS AGAINST APPLE CENSORSHIP CONFERENCE! BROUGHT TO YOU BY TIBET ACTION INSTITUTE & GREATFIRE." />
-	<meta property="og:type" content="Campaign" />
-	<meta property="og:image" content="assets/icons/thumbnail.png" />
-	<meta property="og:url" content="https://tibcert-hub.github.io/tibcert-hub/" />
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157121718-4"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-157121718-4');
-	</script>
-
-	</head>
-<body>
-	<nav>
-		<div class="top-bar">
-			<h2><a href="index">WWDAACC20</a></h2>
-		<div class="nav">
-			<ul>
-				<li><a href="overview">Overview</a></li>
-				<li><a href="pre-event">Pre-Event</a></li>
-				<li><a href="register">Register</a></li>
-			</ul>
-		</div>
-		
-	</nav>
-	<div class="nav-mobile">
-			<div class="burger" id="burger">
-				<ul>
-				<li><a href="overview">Overview</a></li>
-				<li><a href="pre-event">Pre-Event</a></li>
-				<li><a href="register">Register</a></li>
-				</ul>
-			</div>
-			<a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    			<i class="fa fa-bars"></i>
- 			 </a>
-		</div>
-		</div>
-
-<main>
-	<div class="section-hero">
-		<img src="assets/images/APPLE-LOGO.png" width="100px" alt="" >
-		<h1>
-			Ready. Set. Protect.
-		</h1>
-		<h3 class="hashtag"><a href="https://stopapplecensorship.online/" target="_blank">#StopAppleCensorship</a></h3>	
-	</div>
-</main>
-
-<article>
-	<h2 class="center page-title" style="">
+I".<h2 class="center page-title" style="">
 					Welcome to the first Worldwide Developers Against Apple Censorship Conference!
 					Brought to you by Tibet Action Institute &amp; GreatFire.
 </h2>
@@ -169,11 +104,16 @@
 <h2>WHERE:</h2>
 <p>
 	The panels will be livestreamed on Tibet Action Institute’s Facebook, Youtube and Instagram pages:
+	<li><a href="https://www.facebook.com/tibetaction">https://www.facebook.com/tibetaction</a></li>
+	<li><a href="https://www.youtube.com/user/tibetactioninstitute">https://www.youtube.com/user/tibetactioninstitute</a></li>
+	<li><a href="https://www.instagram.com/tibetactioninstitute/">https://www.instagram.com/tibetactioninstitute/</a></li>
+	<a></a>
 
+	<a class="fa fa-instagram  fa-2x" aria-hidden="true"></a>
 <ul class="fa-ul">
-  <li class="fa-li"><a class="fa fa-facebook-square fa-2x" aria-hidden="true" href="https://www.facebook.com/tibetaction"><span>/tibetaction</span></a></li>
-  <li class="fa-li"><a class="fa fa-youtube fa-2x" aria-hidden="true" href="https://www.youtube.com/user/tibetactioninstitute"><span>/tibetactioninstitute</span></a></li>
-  <li class="fa-li"><a class="fa fa-instagram  fa-2x" aria-hidden="true" href="https://www.instagram.com/tibetactioninstitute/"><span>/tibetactioninstitute</span></a></li>
+  <li><span class="fa-li"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></span><a href="https://www.facebook.com/tibetaction">/tibetaction</a></li>
+  <li><span class="fa-li"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></span>be used to</li>
+  <li><span class="fa-li"><i class="fa fa-instagram  fa-2x" aria-hidden="true"></i></span>replace bullets</li>
 </ul>
 </p>
 
@@ -187,28 +127,4 @@
 </p>
 <p><br /><br /></p>
 
-	
-</article>
-
-
-
-<script>
-function myFunction() {
-  var x = document.getElementById("burger");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
-
-
-
-
-
-<footer>
-	<p> WWDAACC20 is brought to you by Tibet Action Institute and Great Fire  </p>
-</footer>
-</body>
-</html>
+:ET
