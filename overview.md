@@ -28,7 +28,7 @@ title: Overview
 		<li>Sophie Richardson, China Director, Human Rights Watch</li>
 		<li>Masashi Crete-Nishihata, Associate Director, The Citizen Lab</li>
 		<li>Xiao Qiang, Founder and Editor-in-Chief, China Digital Times</li>
-		<li>Benjamin Ismail, Free Speech Advocate, GreatFire </li>
+		<li>Benjamin Ismail, Campaign and Advocacy Director, GreatFire </li>
 		<li>Sam Biddle, Technology Reporter, The Intercept</li>
 		<li>Lhadon Tethong, Director, Tibet Action Institute (Moderator)</li>
 	</ul>
