@@ -1,5 +1,6 @@
 ---
 layout: register
+title: Register
 ---
 <!-- modify this form HTML and place wherever you want your form -->
 <h2 class="text-center" style="letter-spacing: normal;">Register for updates</h2>

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Pre-Event
+title: Pre-Concert
 ---
 <!-- modify this form HTML and place wherever you want your form -->
-<h2 class="text-center" style="letter-spacing: normal;">Pre-Event</h2>
+<h2 class="text-center" style="letter-spacing: normal;">Pre-Concert</h2>
 <p>
 	We are ecstatic to announce that we will be hosting a pre-collaborative virtual Freedom of Expression Concert on Students for a Free Tibet’s <a href="https://www.instagram.com/sft_international/?hl=en" target="_blank">Instagram live!</a>
 </p>
