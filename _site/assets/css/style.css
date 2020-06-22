@@ -208,12 +208,19 @@ article a:hover{color:#2d5ce0;}
 	border-radius:30px;
 	 font-style: 10px}
 .btn-blue:hover{background:#0e225a;}
-
+.fa-ul{
+	margin:0px  20px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+}
 .fa-ul .fa-li{line-height: 50px}
 .fa-ul .fa-li a{color:white;
 
 }
-.fa-ul .fa-li a span{
+.fa-ul .fa-li a span,
+.tai a span,
+.girl a span
+{
 	vertical-align: top;
 	padding:5px;
 	color:white;
@@ -222,6 +229,10 @@ article a:hover{color:#2d5ce0;}
 .fa-li:nth-child(1):hover a{color:#297cf7;}
 .fa-li:nth-child(2):hover a{color:#f72929}
 .fa-li:nth-child(3):hover a{color:#8229f7;}
+.tai{
+	list-style-image: url(../icons/tai.png);
+}
+.girl{list-style-image: url(../icons/girl.png);}
 
 .col-3 {
 	margin:0px auto;
@@ -229,12 +240,16 @@ article a:hover{color:#2d5ce0;}
 	display: grid;
 	grid-template-columns: 1fr 550px 550px 550px 1fr;
 	grid-gap: 20px;
+	margin-bottom: 100px;
 	
 }
 .col-3 div{
+	background:#54411d;
 }
 .col-3 div:nth-child(1){grid-column-start:2}
-.col-3-title{text-align: center}
+.col-3-title{text-align: center;
+color:white;
+}
 
 /* ---------------------- Responsive for mobile and tablet devices---------------------*/
 @media only screen and (max-width:800px) {
@@ -327,4 +342,9 @@ article a:hover{color:#2d5ce0;}
 		display: block;
 	}
 	.col-3 div{}
+	.fa-ul{
+		margin:0px  20px;
+		display: grid;
+		grid-template-columns: 1fr;
+	}
 }
