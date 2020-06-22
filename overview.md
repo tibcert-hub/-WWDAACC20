@@ -12,7 +12,7 @@ title: Overview
 </p>
 <h2>WHO:</h2>
 <p>
-	The conference will include leading activists and technology experts from organizations around the world, including: GreatFire, the Citizen Lab, Human Rights Watch, China Digital Times, Keyboard Frontline, Students for a Free Tibet, Guardian Project, World Uyghur Congress, International Tibet Network, Dachompa Tech, SumOfUs, Tibet Action Institute, and more! 
+	The conference will include leading activists and technology experts from organizations around the world, including: GreatFire, the Citizen Lab, Human Rights Watch, China Digital Times, Keyboard Frontline, Students for a Free Tibet, Guardian Project, World Uyghur Congress, International Tibet Network, Dachompa Tech, SumOfUs, Tibet Action Institute, HKmap.live and more! 
 </p>
 <p>	
  You don’t have to be a developer to participate. It’s free and anyone can <a href="register"><b>register!</b></a>
@@ -49,6 +49,7 @@ title: Overview
 			<li>Nathan Freitas, Founder and Director, Guardian Project    </li>
 			<li>Charlie Smith, Co-Founder, GreatFire</li>
 			<li>Tenzin Samten, Co-Founder, Dachompa Tech</li>
+			<li>Developer, HKmap.live</li>
 			<li>Lobsang Gyatso, Digital Security Program Director, Tibet Action Institute (Moderator)</li>
 		</ul> 
 	</li>
