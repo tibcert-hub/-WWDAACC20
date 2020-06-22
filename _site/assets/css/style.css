@@ -223,6 +223,19 @@ article a:hover{color:#2d5ce0;}
 .fa-li:nth-child(2):hover a{color:#f72929}
 .fa-li:nth-child(3):hover a{color:#8229f7;}
 
+.col-3 {
+	margin:0px auto;
+	width:100vw;
+	display: grid;
+	grid-template-columns: 1fr 550px 550px 550px 1fr;
+	grid-gap: 20px;
+	
+}
+.col-3 div{
+}
+.col-3 div:nth-child(1){grid-column-start:2}
+.col-3-title{text-align: center}
+
 /* ---------------------- Responsive for mobile and tablet devices---------------------*/
 @media only screen and (max-width:800px) {
   /* For tablets: */
@@ -308,4 +321,10 @@ article a:hover{color:#2d5ce0;}
 	#burger a{
 		background:none;
 	}
+	.col-3 {
+		margin:0px auto;
+		width:100vw;
+		display: block;
+	}
+	.col-3 div{}
 }
