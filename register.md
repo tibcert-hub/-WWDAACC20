@@ -1,11 +1,11 @@
 ---
 layout: register
-title: Register
+title: Sign Up
 ---
 <!-- modify this form HTML and place wherever you want your form -->
-<h2 class="text-center" style="letter-spacing: normal;">Register for updates</h2>
+<h2 class="text-center" style="letter-spacing: normal;">Sign Up</h2>
 <p>
-
+To join Tibet Action’s mailing list and receive periodic updates on the Apple campaign and other aspects of our work, please fill in your information here. Thanks!
 </p>
 <p>
 	

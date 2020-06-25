@@ -6,21 +6,19 @@ title: Overview
 					Welcome to the first Worldwide Developers Against Apple Censorship Conference!
 </h2>
 <p>
-	Coinciding with Apple’s famed "Worldwide Developers Conference", we are excited to bring together great technology minds, human rights advocates from affected communities, and corporate accountability experts to explore issues of censorship and surveillance behind China’s Great Firewall. And, in particular, how Apple’s actions are enabling the Chinese government’s censorship and surveillance regime.
+	We are thrilled to have had such an exciting and successful Worldwide Developers Against Apple Censorship Conference! Thank you so much to all the panelists who participated (see the full list below) and to everyone who joined live or who has watched the videos on Tibet Action’s Facebook page. We hope you have found the conversations as deeply informative and inspiring as we have. We look forward to continuing to work together with panelists and with you in the campaign to #StopAppleCensorship. To join Tibet Action’s mailing list and receive periodic updates on the Apple campaign and other aspects of our work, please go to the Sign Up tab and fill in your information. Thanks! 
 
 
 </p>
 <h2>WHO:</h2>
 <p>
-	The conference will include leading activists and technology experts from organizations around the world, including: GreatFire, the Citizen Lab, Human Rights Watch, China Digital Times, Keyboard Frontline, Students for a Free Tibet, Guardian Project, World Uyghur Congress, International Tibet Network, Dachompa Tech, SumOfUs, Tibet Action Institute, HKmap.live and more! 
+	The all-day, online conference that coincided with Apple’s famed Worldwide Developers Conference included three panels of leading activists and technology experts from organizations and media outlets around the world, including: GreatFire, the Citizen Lab, Human Rights Watch, China Digital Times, Keyboard Frontline, The Intercept, Students for a Free Tibet, Guardian Project, World Uyghur Congress, International Tibet Network, Dachompa Tech, SumOfUs, Tibet Action Institute, HKmap.live, and more!
 </p>
-<p>	
- You don’t have to be a developer to participate. It’s free and anyone can <a href="register"><b>register!</b></a>
-</p>
+
 
 <h2>WHAT:</h2>
 <p>
-	Throughout the day, we will be hosting the following public panels with leading experts who will cover topics related to censorship and Apple (see schedule below):
+	Throughout the day, we will be hosted the following public panels with leading experts who covered topics relating to censorship and Apple:
 </p>
 <ul>
 	<li><b>CENSORSHIP IN CHINA & CHINA-CONTROLLED REGIONS:</b> Then & Now</li>
@@ -55,13 +53,10 @@ title: Overview
 	</li>
 </ul>
 <p>
-	 In addition, there will be two private discussions where we get together and hack on how Apple implements data localization and app censorship. Join us as we figure out ways to challenge Apple censorship and freedom of expression violations through research and advocacy. Please register and let us know if you would like to participate and we will get back to you.
+	 In addition, there were two private discussions where we hacked on how Apple implements data localization and App censorship working togather to figure out ways to challenge Apple censorship and freedom of expression violations through research and advocacy. Participants will be collaboratively publishing some of their findings so stay tuned.
 </p>
 <h2>WHEN:</h2>
 <p><b>June 22, 2020</b></p>
-<p>
-	The event will run from: 
-</p>
 <!--<p> 8 a.m. – 3 p.m. PDT / 11 a.m. – 6 p.m. EDT / 4 p.m. - 11p.m. UK / 11 p.m - 6 a.m Hong Kong / 8:30 p.m - 3:30 am IST</p> -->
 <p> 9 a.m. – 4 p.m. EDT</p>
 <p> 2 p.m. - 9 p.m. BST </p>
@@ -105,13 +100,12 @@ title: Overview
 </table>
 <h2>WHERE:</h2>
 <p>
-	The panels will be livestreamed on Tibet Action Institute’s Facebook, YouTube, Website and here:
+	The panels were livestreamed on Tibet Action Institute’s Facebook, website and Youtube pages.
+	 If you missed the live event, you can watch the replays on the homepage of this site, or by going to Tibet Action’s Facebook page. Check it out!
 <ul class="fa-ul">
   <li class="fa-li"><a class="fa fa-facebook-square fa-2x" aria-hidden="true" href="https://www.facebook.com/tibetaction" target="_blank"><span>/tibetaction</span></a></li>
-
   <li class="tai"><a class="" aria-hidden="true" href="https://www.youtube.com/user/tibetactioninstitute" target="_blank"><span>https://Tibetaction.net</span></a></li>
-   <li class="fa-li"><a class="fa fa-youtube fa-2x" aria-hidden="true" href="https://www.youtube.com/user/tibetactioninstitute" target="_blank"><span>/tibetactioninstitute</span></a></li>
-  <li class="girl"><a class="" aria-hidden="true" href="https://www.youtube.com/user/tibetactioninstitute" target="_blank"><span>https://WWDAACC20.com</span></a></li>
+
 </ul>
 </p>
 
