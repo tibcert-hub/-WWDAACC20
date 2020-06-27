@@ -1,8 +1,4 @@
----
-layout: default
-title: Overview
----
-<h2 class="center page-title" style="">
+I"�<h2 class="center page-title" style="">
 					Welcome to the first Worldwide Developers Against Apple Censorship Conference!
 </h2>
 <p>
@@ -15,13 +11,12 @@ title: Overview
 	The all-day, online conference that coincided with Apple’s famed Worldwide Developers Conference included three panels of leading activists and technology experts from organizations and media outlets around the world, including: GreatFire, the Citizen Lab, Human Rights Watch, China Digital Times, Keyboard Frontline, The Intercept, Students for a Free Tibet, Guardian Project, World Uyghur Congress, International Tibet Network, Dachompa Tech, SumOfUs, Tibet Action Institute, HKmap.live, and more!
 </p>
 
-
 <h2>WHAT:</h2>
 <p>
 	Throughout the day, we hosted the following public panels with leading experts who covered topics relating to censorship and Apple:
 </p>
 <ul>
-	<li><b>CENSORSHIP IN CHINA & CHINA-CONTROLLED REGIONS:</b> Then & Now</li>
+	<li><b>CENSORSHIP IN CHINA &amp; CHINA-CONTROLLED REGIONS:</b> Then &amp; Now</li>
 	<ul>
 		<li>Sophie Richardson, China Director, Human Rights Watch</li>
 		<li>Masashi Crete-Nishihata, Associate Director, The Citizen Lab</li>
@@ -30,18 +25,18 @@ title: Overview
 		<li>Sam Biddle, Technology Reporter, The Intercept</li>
 		<li>Lhadon Tethong, Director, Tibet Action Institute (Moderator)</li>
 	</ul>
-	<br>
-	<li><b>FREEDOM OF EXPRESSION & APPLE: </b>  The Double Standard for China, Tibet, East Turkestan, and Hong Kong
+	<br />
+	<li><b>FREEDOM OF EXPRESSION &amp; APPLE: </b>  The Double Standard for China, Tibet, East Turkestan, and Hong Kong
 		<ul>
 			<li>Glacier Kwong, Founder, Keyboard Frontline</li>
 			<li>Sondhya Gupta, Campaign Director, SumOfUs</li>
 			<li>Yaqiu Wang, China Researcher, Human Rights Watch</li>
-			<li>Zumretay Arkin, Program & Advocacy Manager, World Uyghur Congress</li>
+			<li>Zumretay Arkin, Program &amp; Advocacy Manager, World Uyghur Congress</li>
 			<li>Pema Doma, Campaigns Director, Students for a Free Tibet</li>
 			<li>Mandie McKeown, Campaigns Coordinator, International Tibet Network (Moderator)</li>
 		</ul>
 	 </li>
-	 <br>
+	 <br />
 	<li><b>PUBLISHING iOS APPS WHEN CENSORED</b>
 		<ul>
 			<li>Nathan Freitas, Founder and Director, Guardian Project    </li>
@@ -53,7 +48,7 @@ title: Overview
 	</li>
 </ul>
 <p>
-	 In addition, there were two private discussions where we hacked on how Apple implements data localization and app censorship, working togather to figure out ways to challenge Apple censorship and freedom of expression violations through research and advocacy. Participants will collaboratively publish some of their findings so stay tuned.
+	 In addition, there were two private discussions where we hacked on how Apple implements data localization and App censorship working togather to figure out ways to challenge Apple censorship and freedom of expression violations through research and advocacy. Participants will be collaboratively publishing some of their findings so stay tuned.
 </p>
 <h2>WHEN:</h2>
 <p><b>June 22, 2020</b></p>
@@ -78,7 +73,7 @@ title: Overview
 		<td>10:45am EDT / 10:45pm HKT</td>
 	</tr>
 	<tr>
-		<td>FOE & Apple: the Double Standard – 1.5 hrs</td>
+		<td>FOE &amp; Apple: the Double Standard – 1.5 hrs</td>
 		<td>11:45am EDT / 11:45pm HK</td>
 	</tr>
 	<tr>
@@ -100,10 +95,11 @@ title: Overview
 </table>
 <h2>WHERE:</h2>
 <p>
+	The panels were livestreamed on Tibet Action Institute’s Facebook, website and Youtube pages.
 	 If you missed the live event, you can watch the replays on the homepage of this site, or by going to Tibet Action’s Facebook page. Check it out!
 <ul class="fa-ul">
   <li class="fa-li"><a class="fa fa-facebook-square fa-2x" aria-hidden="true" href="https://www.facebook.com/tibetaction" target="_blank"><span>/tibetaction</span></a></li>
-  <li class="tai"><a class="" aria-hidden="true" href="https://tibetaction.net/live/" target="_blank"><span>https://Tibetaction.net</span></a></li>
+  <li class="tai"><a class="" aria-hidden="true" href="https://www.youtube.com/user/tibetactioninstitute" target="_blank"><span>https://Tibetaction.net</span></a></li>
 
 </ul>
 </p>
@@ -116,7 +112,6 @@ title: Overview
 <p>
 	
 </p>
-<br><br>
+<p><br /><br /></p>
 
-
-
+:ET
